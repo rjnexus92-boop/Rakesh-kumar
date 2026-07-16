@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>RK Drone Flyer</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="style.css">
+
+<script src="script.js" defer></script>
+</head>
+<!-- Scroll Top -->
+
+<div id="scrollTop">
+
+▲
+
+</div>
+
+<!-- WhatsApp -->
+
+<a href="https://wa.me/917733023283"
+
+class="whatsapp"
+
+target="_blank">
+
+<img src="images/whatsapp.png">
+
+</a>
+
+<!-- Instagram -->
+
+<a href="https://www.instagram.com/creator_rakesh_36"
+
+class="instagram"
+
+target="_blank">
+
+<img src="images/instagram.png">
+
+</a>
+
+<!-- Particles -->
+
+<div id="particles"></div>
+
+<body>
+
+<header>
+
+<nav class="navbar">
+
+<div class="logo">
+<img src="images/logo.png">
+<h2>RK Drone Flyer</h2>
+</div>
+
+<ul>
+
+<li><a href="#home">Home</a></li>
+
+<li><a href="#about">About</a></li>
+
+<li><a href="#services">Services</a></li>
+
+<li><a href="#gallery">Gallery</a></li>
+
+<li><a href="#contact">Contact</a></li>
+
+</ul>
+
+<a href="tel:7733023283" class="callbtn">
+Call Now
+</a>
+
+</nav>
+
+</header>
+
+<section id="home" class="hero">
+
+<div class="overlay"></div>
+
+<div class="hero-content">
+
+<h1>
+Capture The Sky With
+<span>RK Drone Flyer</span>
+</h1>
+
+<p>
+
+Professional Drone Photography &
+Cinematic Videography
+
+</p>
+
+<div class="buttons">
+
+<a href="#gallery" class="btn1">
+View Portfolio
+</a>
+
+<a href="https://www.instagram.com/creator_rakesh_36" class="btn2">
+
+Instagram
+
+</a>
+
+</div>
+
+</div>
+
+<div class="hero-image">
+
+<img src="images/rakesh.png">
+
+</div>
+
+</section>
+
+<section id="services">
+
+<h2>Our Services</h2>
+
+<div class="service-box">
+
+<div class="card">
+
+<h3>Wedding Drone Shoot</h3>
+
+<p>
+4K Cinematic Wedding Coverage
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>Pre Wedding</h3>
+
+<p>
+Luxury Couple Drone Shoot
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>FPV Drone</h3>
+
+<p>
+High Speed FPV Videos
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>Real Estate</h3>
+
+<p>
+Property Aerial Shoot
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>Event Coverage</h3>
+
+<p>
+Birthday, Concert & Festival
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>YouTube Cinematic</h3>
+
+<p>
+Premium Creator Videos
+</p>
+
+</div>
+
+</div>
+
+</section>
+<!-- ABOUT -->
+
+<section id="about" class="about">
+
+<div class="about-img">
+
+<img src="images/rakesh.png">
+
+</div>
+
+<div class="about-text">
+
+<h2>About RK Drone Flyer</h2>
+
+<p>
+
+RK Drone Flyer provides premium drone photography &
+cinematic videography for weddings, pre weddings,
+events, real estate and FPV shoots.
+
+Our mission is to capture every moment from a unique
+aerial perspective with professional quality.
+
+</p>
+
+<a href="#contact" class="btn1">Book Now</a>
+
+</div>
+
+</section>
+
+
+<!-- GALLERY -->
+
+<section id="gallery">
+
+<h2>Gallery</h2>
+
+<div class="gallery">
+
+<img src="images/g1.jpg">
+
+<img src="images/g2.jpg">
+
+<img src="images/g3.jpg">
+
+<img src="images/g4.jpg">
+
+<img src="images/g5.jpg">
+
+<img src="images/g6.jpg">
+
+</div>
+
+</section>
+
+
+
+<!-- REVIEWS -->
+
+<section id="reviews">
+
+<h2>Client Reviews</h2>
+
+<div class="review-box">
+
+<div class="review">
+
+★★★★★
+
+<p>
+
+Amazing Drone Quality
+
+</p>
+
+<h4>- Rahul</h4>
+
+</div>
+
+<div class="review">
+
+★★★★★
+
+<p>
+
+Best Wedding Drone Service
+
+</p>
+
+<h4>- Mohit</h4>
+
+</div>
+
+<div class="review">
+
+★★★★★
+
+<p>
+
+Professional Team
+
+</p>
+
+<h4>- Nikhil</h4>
+
+</div>
+
+</div>
+
+</section>
+
+
+
+<!-- CONTACT -->
+
+<section id="contact">
+
+<h2>Contact Us</h2>
+
+<form>
+
+<input type="text" placeholder="Your Name">
+
+<input type="email" placeholder="Email">
+
+<textarea placeholder="Message"></textarea>
+
+<button>
+
+Send Message
+
+</button>
+
+</form>
+
+</section>
+
+
+
+<!-- FOOTER -->
+
+<footer>
+
+<h3>RK Drone Flyer</h3>
+
+<p>
+
+📞 7733023283
+
+</p>
+
+<p>
+
+Instagram :
+creator_rakesh_36
+
+</p>
+
+<p>
+
+© 2026 RK Drone Flyer
+
+</p>
+
+</footer>
